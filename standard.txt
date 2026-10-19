@@ -34,3 +34,24 @@ https://netflix.com/?nftoken=BgjCwOvcAxL/AXn9MHLME1oUFuDtAGCjDhkdsdytemVPMPwh5M5
 failed
 
 ==================================================================
+
+[{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"NetflixId","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":null,"value":"ct%3DBgjHlOvcAxKwA_g_V_Zy0Rez4HyD-vxbV4TRu4LdfNpSQeGHxHmTKhiwCvS6f0H2Oe-j4kF8Qqm0PwPaGRpkxXOo1AHP6HBLuhhRpCL0TG4CKP8UdB5NgyZeO04sQ27AnrMoqa9AR81RLxVD0W9th2Rty910YX7y4BnKL7B1UlimM_pag1qb74MMiWreAzqjYofcyDnGocX-Q52ll-ObTP5rqIcItq_lZejGC4RdQXfk-wMdO_yloVbFRN4t6SlQ8KKhLDJ7OYz8p1UV1FMKL9AH-kraLsAhq7aH7FQUhqfiwNG_5JU6RcpA8FplM2-1VzR2639K7FN5lLvYCWQFsIX-J_i_kaFzGJXA-iuPa4zqHEnMzv_UmO_NG4FMkiEwEMMBZGDGmEOYsuN4A7H0VvGgJO5zUF0An4yA2WxGJMX6twxqhmgMePLCzz3QTatfcSfeBTOyuRaQv4dF-EVILP4QsOQJMCzouU1sI3OSRvAW6jgm09ntLfWse1GUDxAeboIvaw1N3-SuqTLobR104EsfSSTNe7afjs5DBeeBAGBHAmXfEnw8mXe242kwrfbKbybTc45FWvNGcRgGIg4KDKnxgMiuLIo1SmZk_Q..%26ch%3DAQEAEAABABSyNNmuPu9an5FlWhMP7B1RwDynRH6MN1E.%26v%3D3%26pg%3DQMQKL6MCTBEAFJAU6236L6I7FA"},{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"SecureNetflixId","path":"/","sameSite":"strict","secure":true,"session":false,"storeId":null,"value":"v%3D3%26mac%3DAQEAEQABABRofJ7_RBh3HhULCjxzLr8WtiMfAKRje3M.%26dt%3D1790930822068"}]
+
+------------------------------------------------------------------
+failed
+
+==================================================================
+
+[{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"NetflixId","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":null,"value":"v%3D3%26ct%3DBgjHlOvcAxKgA7xMg_xt1lHb8KPp8mgl0g7B2t7-J8KWOBnet_Ubq0ksnzx8keOo6p7btl1MdpuO0QQEAh_PADtKHsT__GeMjIPbd7To8pvMkMlOs8bzQ0l609Wz_NA_aSuT1N9kkyBqobjXJA0NcWTMcOrlO8wh5lmukwiXrZOPHmsF9HYoezeocogB_vtCogJwUM42NMu2IxqGnE66dplAqRj5f0hRqDDQLIv6GYaz5_mQhjEKiD-fTeEguGD1tOVxd-5QzQbdYaAOUqhbqAJole7bFCLIR5g5wFenl9YXcss-rODFbYor1JG5Zppnw3tuXQ9P7iITJKh-6kTfATN0RF4O0YSzl2FclsN_9lSyWT6449Kqlkjrk3OERsUOm0o3ObsEEAEIKVhnbqOxAXL78la3zk0R2295n4Z1XK8g8zKvkxbgnG7k8q4D6_VXvlXqrdNPRyV0-IRq70C-MgFFlKNNwtWbQfQDVmbe4aMZDbATw544l0J2vMpt0M6-7G7sg9j3eRc_7b_0pLgP2NxzrxcZ7bn_-f749PUUykouM-Q1rR3ccDHXGAYiDgoMF2a_-UnFB_hakCEI%26pg%3DZB4F5GGCMJDUPN2LSSHUGBLQKE%26ch%3DAQEAEAABABR6vskdpzAYmxmILDJ_esHvvlgQ8nQIQMc"},{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"SecureNetflixId","path":"/","sameSite":"strict","secure":true,"session":false,"storeId":null,"value":"v%3D3%26mac%3DAQEAEQABABRM2d0dXB6f1ewL4qOQLzjCwCHE93400lg.%26dt%3D1790858430014"}]
+
+------------------------------------------------------------------
+failed
+
+==================================================================
+
+[{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"NetflixId","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":null,"value":"ct%3DBgjHlOvcAxLgA3HQqldwcMGDwgPZkZKdG8WkxEnQ8lSIqJRJFvR_sr1d8-lOs4nUhAo2RhtSilufYqwPjSkgyWpm20TA9JzysvxBAOA02_xuprhi2Fv3mPaimLYz_8DiLpX7nMS0rlbUBXgDUfm1gcfU1F4n2XiqmUmbgxcgG-CiKGImNmGwu0PS2GhSmbeBMtjfxfY6N77I78hzF_bHPDyxh1qDRDJUI7zXQDKB24AUDSEKPkUJ6T2MsU28PRKh-uiFDempE04KfI-_1062sEPTviXPgL5j3SridfZ0GShUqBuqgBMcqzl6z9lFbazDrP28yP2JlKcwp4u-YTP2HZHCdv-fbps3D4Lq7IMpy-hBisKNM-3Gl-hSQyPdBg09ZRJeHTaJOXfP543LsTlrtxu9dlsPbhb-eKJF_a1gGNxu9rNwiF5kPfbeZ4UzwDTWftpaJyvpNy3oaJC_pNMie2cU5hCXUyBFn98H4FCPLdfRnrpZ0o9tYfYFqST4Bel8WiXtGk0TOHNZRh5nJg2MxEtVgb4YJCljm2m9kFyA9HedW525XajIiq1O5PiKUHYBC7T213ebebWULuP6MYp0mIoUJgRTrEiO6JuCuB9oJIRuaWsF_ikNyvP3zUzYPXJNXVJM2fyPwIjSKRgGIg4KDDj-BLmi0SW4iKJw4w..%26ch%3DAQEAEAABABTvaDkpExGtwQJPVaZ1NZke2Tjaiigo8aU.%26v%3D3%26pg%3DS2ZMXYWKUBEFLBX4W2JOD3I6Y4"},{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"SecureNetflixId","path":"/","sameSite":"strict","secure":true,"session":false,"storeId":null,"value":"v%3D3%26mac%3DAQEAEQABABTt_QnQWZM8GMqq6Exkmd-tAN88SJIfsCc.%26dt%3D1776285919214"}]
+
+------------------------------------------------------------------
+failed
+
+==================================================================
