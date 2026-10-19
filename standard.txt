@@ -55,3 +55,24 @@ failed
 failed
 
 ==================================================================
+
+[{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"NetflixId","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":null,"value":"ct%3DBgjHlOvcAxK3A_AREcbIhgY_hrf-8wGXc6VIbpGaN6YMNLb506R6-RflLWmQ9NEvAByhxznyTOoTddwnvhju6zyPsP3jt1z5QH2hBpxvGx9ltJ5YEweaTT9f2SLPslsgtRKTPCpAH0m_vEJ3UFrHqrFg3SuuVuqQhmxhOkurVCvvYeE8B0RQOXfzyBp46NMq-mL6s8_3JyMWwzT4w3L7DmRGJJvfMxS42JRzYqsax4h9hsBwM2ZqPEEuLJ1Z6ehyo_ldj1KdyhSFxcgi49bitVvuQ9r9ohDvdgT5cxHL9kanxlrOOl_e4wsP2M2czVrNjHBMSmnF1O0x8P2NW5Nk6sDcW1sQlkZV1IsCsmV6JFvSVrV5B6I8MHSHvNfski1RMeh6BuG1Bp6G-LrbMf5DkS6c3OI9JkF-mxSL-GVGDQowhZ1heaTKuX8WHpTk9hNfI93FFfmWe8FHDYErDrL1SQ0Lo4lU3vITKwXFzzQOrvweqhi9JFKxu2a3YIKYpF5Mt9kEAhqGu9pOeq5xIiGCx-b8KgXQb1ReIFOkthVrXsff0-qbhhAjZ9_U_mI56EMeMAADUYisPca8jJSHDOyYB48YBiIOCgxrp0d3cXe9IVctPAk.%26ch%3DAQEAEAABABTCvnqDNalp_DN_UbF-aqHH_WmQmfevhOw.%26v%3D3%26pg%3DPL4QN7PLHRAHFFPDJM6W4XKR5M"},{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"SecureNetflixId","path":"/","sameSite":"strict","secure":true,"session":false,"storeId":null,"value":"v%3D3%26mac%3DAQEAEQABABSnPkbFS3x7Gf9tK5U0-7GtzeWiEe-PqPU.%26dt%3D1789349541688"}]
+
+------------------------------------------------------------------
+failed
+
+==================================================================
+
+[{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"NetflixId","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":null,"value":"ct%3DBgjHlOvcAxKHBJg1wT8iNQgQWQVAa0ekc0aozpYBlpOcCqnc4M1FMDcuB3aSND7eIaipRhE0CuowJMnN3LzjL8Y6ZT5MLZga4bKa3t-TuqOMbnfLy_PfPugY30e6MxxkXc0VFxVQJz9pZxB_pPpYL5CMv82CZZwCldbYr-ybMtZfgJSapSG4fhhqUbofntdN6SufYXaGRR0zWNXs9vQ1dVumkKyolYirjMu3MtcoxKDDo0h1WCnh-5vMJBDzUjR_mW6hi9Twd7OoKAjicRN0xa8-Lo5_4BIPQZEyv3pFi3AY7GCbII-xC_VSeckEahTHBxCAgTUQ17BjYePQLhy5idYiqBStGxoiRpLQTmFbdRopA-UpIVXw6E-N5jgcLfiY-PRbTWPocpDcaIC36hlra5p86vjY3b8dXIBL1QzuckxRPwLFgAMZ6p1-rqbpQ28KiLo1yHTLZcZ1mP4wNboFIo8jmcxgTbop1qZ_RKcshFheGvZr23rq7upS41bLDOrQvdxB9ybPkQOETI2khdcNVkpxUG7feQ77p4rU9y8Qr_pXjYp8fIHJqaJN8KU4ih5AFUXm2TVtO3nSk9EHn8S5pshyTMPgEG8R0IZgRPoJD0y3MuT0rPawRt_wG6TL54hQeFducieRE6IsvU20T0Owo-1xGKZF8ZdOpnoc94pTLN7xnqqNKI9zI-rQbU7EHzvzEhgGIg4KDGY7GI1ilHfmzcYV8g..%26ch%3DAQEAEAABABRPdO_trflnAf7KmERmQN1IOTLh-KEH8rA.%26v%3D3%26pg%3DRGUVWRYWCFHURGVRAS6KETJCVQ"},{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"SecureNetflixId","path":"/","sameSite":"strict","secure":true,"session":false,"storeId":null,"value":"v%3D3%26mac%3DAQEAEQABABS9Cu7k5h4D9GU2SlydEBxbNlQRJQv6t3g.%26dt%3D1789048025917"}]
+
+------------------------------------------------------------------
+failed
+
+==================================================================
+
+[{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"NetflixId","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":null,"value":"ct%3DBgjHlOvcAxLVA8f2sv8whwwd-EsHYW3EcC6F9kfoKGawz3lk7DTfp3WlK6F4ehZXv7JxWFtR_eO0SJqsvBwIafhTe3zmlnCp3ROdhaKz6YO1NQxpkXbQ5oF_Yzo9bQshtSq0vxz3o91RR8aaQ3Zsxj-MN3ml1XU2q6jnA_0Mt_UYYFKP5SmO2vopaVgsPUqj3yTdZRp2BX2LSJfwx680hjOwTOSOTC3EUm86xmRIBXA5ym1-s6sQNwhNGNKTcvEwBQ0Txu28Pzv0wv23km2CbBMGtmeIoQNAqc_3C6-yAWlITW85UuVWJQTX8dGw-Ri6BnTgfov2gjwYNnDj8hUvbOxAqFR9oj0fcrsRRPuW4qO9lC7H2xaOYg7WdGwitJLaIoLNLpcCcck1avmKFJUdrxUuhVaqPDYs0faP1lv0uJv4X-_Sksy8xVgUT0w0rYI4pJDS1ANCkj05DGwLLCS4ESFkRy2JomCAjhw9-v1hz69CP5GMyC7cF-Me2zQXaVIiTz_xtizm04Q2FvPEJJom-9ecWWT_rbxpt_ypCS-PiVLFs5OC2T2Ncm6zM8gUtFYBSPuj7Y66wdiDUwgawdbIbDZ-kaIrAN-iSC3-OHDgxzBcGjiQ1pNYK1AkAyvUtm0YBiIOCgzdmwdrPKN8T0Sa-uQ.%26ch%3DAQEAEAABABRyte-eqhjTV-AxWGJzkCALIX_c5pg0X-g.%26v%3D3%26pg%3DAZVZHXXCQFGDBHDY76TUCXTGO4"},{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"SecureNetflixId","path":"/","sameSite":"strict","secure":true,"session":false,"storeId":null,"value":"v%3D3%26mac%3DAQEAEQABABTXxEmVYrrrlMKrJKKdGURw5DkMXo8iy1w.%26dt%3D1790791743163"}]
+
+------------------------------------------------------------------
+failed
+
+==================================================================
