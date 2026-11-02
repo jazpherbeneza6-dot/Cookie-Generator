@@ -20,3 +20,10 @@ failed
 failed
 
 ==================================================================
+
+[{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"NetflixId","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":null,"value":"v=3&ct=BgjHlOvcAxKOA5QROvRm_HCRH7RUs5BFIszMu7sPlVmpRHMWv6DFtRBjGhrQpMvZihFcAuBnh94yHET1QSzKzOMowSWwinH_w0iuGbgMrihKAMbp8lVTtmxrlCcLilXe_iCsr8Oqn9JyMB6NstlvQkNfbrd6L5PbLr2J7rowpqWXVCkCw8NJHM6fMSgBdwjnmCHJNye2Dj4rKYagtlx8BE66ecFB0MuGK1oE2pnfy5vdRIJbcwr-k2mFt3DY4tVVCXq07FP_O7aRiYlgdcV9qPlwW15GfkUiCSZNZTatbUrlaPO4odNOX7p9wXQSCmiXcT_MBLIR4DpmcKH-7Kdf8wyL4eGTPRbuy4WAskHyRxu7zoF95rnISqy__EE5gaoJTcKz55KCyRLPDJE6ZVKcaRcvfg1P3GJJ2cVVU_8s0N8TeZdqYxbWeC9Q5wwOHGVfdDkKB5dYI95GqApUiBhUUJ8dKINd2roAFJvrcmctMvypbz5qi40e3jJZCP4ItmuCG7qqn8SextXMGdVCJd8T05nhCSpOf5_wGAYiDgoMMwhxAvx0j-M6rs1f&pg=B45MDA4UA5GNBBUSUJVEST3SQE&ch=AQEAEAABABSwcOyAt98IkrfHNEwydLOj8DK2PtK7Zjk"}]
+
+------------------------------------------------------------------
+failed
+
+==================================================================
