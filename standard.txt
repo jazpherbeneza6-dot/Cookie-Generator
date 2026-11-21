@@ -559,3 +559,10 @@ failed
 failed
 
 ==================================================================
+
+[{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"NetflixId","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":null,"value":"ct%3DBgjHlOvcAxKQBDvj_fWMNUv_Xt8SvB8g9tERXe2VzGZK5Nhe70mFOAc1quScjbvDFuZgm0SIl6xSGLbdD0VV_wgTheOVejiqtYhRoNu97Hi-Ou8RsL4eiasEbX2VlBkzr7g2jiLzXe3fEafaxM0TAtwbeKNOw4dBo2xoa9tIiEcFxZwt7QyUtVlpOGVKJvCzUQEW6WefAn2Bi9K7Q3ITCfKO0ym9jcrrN0MnfMO7GG1FsqfsnlPyH46KudFOlxo-7PPouyLObVktodSlLY-ivWrMPG2FFU56iMoSr4tVfJ9gu2hq7BJO-E0cg1Hv4q367dAJxWcKymhI_auD9kWEll91E3AvZVTbXrT_e1UNMmFza12y1esM7iHxbiDI_7yDRkZjuOSwJHOO25wYfNnbOwVBXP2S3HZVxJT1nd1x3mqs4ji5a1p3NulR_YFjlYApJSouYOj0y2aTI6Kl1VPEj0Qi8UUoCZ5BhOvOz--MwKO5fbs8Jx2m0O5V_vFpOrXMzsisO1LOnuw3yf7u2A1VYfkEQg69cncNVn5OLxd0UWiUF9DZC6_Z9UkDb_5Gnk1mlGvm_7k8wlIR8nDz53enx8jIoGkyVNgDjUtLXd-7sohzJCPLzSWqEQRMr2msj-CeF6m4TmTz-zF2dIkj4kpfiM0P8LHseO35bQ3OATdrXoR4JAlDcbARDNKLx7eMV2Qt3XsiWBbF-7rdDhgGIg4KDNpS7jBPzyfk1L3X3w..%26ch%3DAQEAEAABABRXYF1zH1XeRiaGYenI-dM0mkgUHqgkw88%26v%3D3%26pg%3DFTGYCP5PS5BTNJDXNGT2ZIX3PQ"},{"domain":".netflix.com","expirationDate":10000000000000000,"hostOnly":false,"httpOnly":true,"name":"SecureNetflixId","path":"/","sameSite":"strict","secure":true,"session":false,"storeId":null,"value":"v%3D3%26mac%3DAQEAEQABABQAYjBBFN6rgG4WLJJSus4CWb4ATFs9KQg.%26dt%3D1795269843571"}]
+
+------------------------------------------------------------------
+https://netflix.com/?nftoken=BgjkwevcAxL+AZptasr/FmBYOf/crZl1qBflRMjXxZ5TpVsAxGjla6u0cydqGRTmO+ADDcNpJSNMLlMlzNFdeLqzdxSLpYMbUrJwXoLMSKtu3uz4Of+8BjhThcHf/G2WNXwj1RM9ngbpUXZ2Sbyfzul4/4oX+J+txGYDpE6FPayeYXmmsql/5FawNuH7lR9ZHR4bBQIkgg/ZSJ5/LCBdNqDLwqk8t4bX90pL98pvHC+8fpoNLFJcRiQoYLebNC9Gn1RVStmqj0F6rzSjTimznOzwW8wpoyHB4b9f/NFOm8gEK8nWtghRHemO3XkGLGaMjzgB5wTzp7jWlJULRZXxJDfHwyYJIOzWGAYiDgoMOEqAKLvVJxXpD+Jb
+
+==================================================================
